@@ -1,0 +1,7 @@
+{
+  "name": "Shoppe Anh Vu",
+  "description": "A full-stack e-commerce platform for electronics (phones, laptops, accessories) with product search, cart, checkout, and user authentication.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
